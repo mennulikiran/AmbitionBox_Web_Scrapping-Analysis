@@ -1,0 +1,601 @@
+Company_Name,Rating,Industry_Type,Locations,AvgSalaries,Total_Interviews,Total_Jobs,Total_Reviews
+TCS,3.7,IT Services & Consulting,Bangalore / Bengaluru +383 other locations,860000,10400,216,87300
+Accenture,3.9,IT Services & Consulting,Bangalore / Bengaluru +198 other locations,580000,8200,20000,54800
+Wipro,3.7,IT Services & Consulting,Bangalore / Bengaluru +341 other locations,450000,5600,851,51800
+Cognizant,3.8,IT Services & Consulting,Chennai +193 other locations,560000,5600,320,48900
+Capgemini,3.7,IT Services & Consulting,Bangalore / Bengaluru +160 other locations,430000,4800,1400,40500
+HDFC Bank,3.9,Banking,Mumbai +1643 other locations,140000,2100,233,38700
+Infosys,3.6,IT Services & Consulting,Bangalore / Bengaluru +205 other locations,470000,7600,2400,38100
+ICICI Bank,4,Banking,Mumbai +1338 other locations,150000,2400,1,37600
+HCLTech,3.5,IT Services & Consulting,Chennai +202 other locations,320000,3800,189,35200
+Tech Mahindra,3.5,IT Services & Consulting,Hyderabad / Secunderabad +288 other locations,260000,3800,479,34300
+Genpact,3.8,IT Services & Consulting,Hyderabad / Secunderabad +135 other locations,200000,3100,661,30800
+Teleperformance,3.9,BPO,Mumbai +206 other locations,90200,1700,287,28600
+Concentrix Corporation,3.8,BPO,Bangalore / Bengaluru +141 other locations,120000,1600,143,25800
+Axis Bank,3.8,Banking,Mumbai +1374 other locations,98500,1500,150,25000
+Amazon,4.1,Internet,Bangalore / Bengaluru +460 other locations,120000,5000,1600,24600
+Jio,3.9,Telecom,Mumbai +1206 other locations,62600,1600,122,22100
+Reliance Retail,3.9,Retail,Mumbai +1048 other locations,66400,1500,61,21900
+iEnergizer,4.6,BPO,Noida +39 other locations,22400,564,143,21900
+IBM,4,IT Services & Consulting,Bangalore / Bengaluru +156 other locations,200000,2400,948,21700
+LTIMindtree,3.8,IT Services & Consulting,Bangalore / Bengaluru +127 other locations,170000,3000,118,20400
+HDB Financial Services,4,NBFC,Mumbai +995 other locations,49400,790,124,20000
+Larsen & Toubro Limited,4,Engineering & Construction,Chennai +663 other locations,69100,1400,193,18300
+Deloitte,3.8,Management Consulting,Hyderabad / Secunderabad +160 other locations,180000,2800,478,17300
+Kotak Mahindra Bank,3.8,Banking,Mumbai +617 other locations,81700,1000,35,16300
+BYJU'S,3.1,EdTech,Bangalore / Bengaluru +310 other locations,59000,2200,1,16000
+Reliance Industries,4,Oil & Gas,Jamnagar +725 other locations,67600,1300,34,15600
+Vodafone Idea,4.1,Telecom,Pune +662 other locations,54000,551,54,15200
+Bharti Airtel,4,Telecom,Gurgaon / Gurugram +708 other locations,45600,830,179,13500
+Tata Motors,4.2,Automobile,Pune +469 other locations,41000,993,10,11700
+AU Small Finance Bank,4.3,Banking,Jaipur +694 other locations,25100,506,78,11400
+WNS,3.4,BPO,Pune +43 other locations,56600,977,173,10800
+IndusInd Bank,3.5,Banking,Mumbai +726 other locations,48600,594,941,10600
+Flipkart,4,Internet,Bangalore / Bengaluru +525 other locations,47800,1400,129,10600
+Ernst & Young,3.4,Management Consulting,Bangalore / Bengaluru +110 other locations,120000,1100,2000,10400
+IDFC FIRST Bank,4,Banking,Mumbai +620 other locations,44400,628,113,10100
+DXC Technology,3.7,IT Services & Consulting,Bangalore / Bengaluru +104 other locations,74800,807,175,9800
+Mahindra & Mahindra,4.1,Automobile,Pune +510 other locations,37500,670,49,9700
+Infosys BPM,3.7,BPO,Bangalore / Bengaluru +80 other locations,65800,928,25,9500
+Bajaj Finserv,4,Financial Services,Pune +989 other locations,26700,512,20,9000
+PwC,3.4,Management Consulting,Bangalore / Bengaluru +107 other locations,88400,1400,1300,8900
+HDFC Life,4,Insurance,Mumbai +606 other locations,30800,600,90,8800
+Conneqt Business Solutions,3.7,BPO,Hyderabad / Secunderabad +242 other locations,26800,457,109,8600
+Mphasis,3.4,IT Services & Consulting,Bangalore / Bengaluru +52 other locations,67300,801,129,8100
+Yes Bank,3.7,Banking,Mumbai +480 other locations,42000,419,104,7500
+Bandhan Bank,3.7,Banking,Kolkata +856 other locations,22700,530,1,7400
+Startek,3.2,IT Services & Consulting,Bangalore / Bengaluru +74 other locations,23200,449,4,7300
+Paytm,3.3,FinTech,Noida +348 other locations,32000,769,92,7300
+Asian Paints,4,Chemicals,Mumbai +474 other locations,22700,637,39,7300
+Maruti Suzuki,4.2,Automobile,Gurgaon / Gurugram +378 other locations,25200,595,432,7100
+Quess,3.9,BPO,Bangalore / Bengaluru +614 other locations,28300,397,74,7100
+Samsung,4,Consumer Electronics & Appliances,Noida +537 other locations,25800,555,13,7100
+Tata Steel,4.1,Iron & Steel,Jamshedpur +199 other locations,29400,830,9,7000
+Ericsson,4.1,Telecom,Noida +152 other locations,42000,407,126,7000
+Shriram Finance,4.1,NBFC,Chennai +1000 other locations,13600,330,20,7000
+EXL Service,3.7,Analytics & KPO,Noida +51 other locations,38700,733,60,6900
+HGS,3.9,BPO,Bangalore / Bengaluru +109 other locations,23400,239,10,6800
+Muthoot Fincorp,4.5,NBFC,Bangalore / Bengaluru +836 other locations,8300,494,290,6800
+UltraTech Cement,4.2,Building Material,Mumbai +457 other locations,22000,542,30,6800
+Sutherland Global Services,3.6,IT Services & Consulting,Chennai +65 other locations,30100,616,118,6700
+Cipla,4.1,Pharma,Mumbai +253 other locations,24200,474,63,6700
+Dr. Reddy's,4.1,Pharma,Hyderabad / Secunderabad +183 other locations,24200,398,20,6700
+Bajaj Finance,4,NBFC,Pune +832 other locations,20800,296,24,6500
+Wells Fargo,3.9,Financial Services,Bangalore / Bengaluru +22 other locations,49200,563,162,6200
+ICICI Prudential Life Insurance,4.1,Insurance,Mumbai +471 other locations,21700,378,41,6100
+Amazon Development Centre India,4.1,Internet,Hyderabad / Secunderabad +104 other locations,32000,726,12,6100
+Jana Small Finance Bank,3.8,Banking,Bangalore / Bengaluru +371 other locations,14300,244,46,6000
+Hindustan Unilever,4.2,FMCG,Mumbai +475 other locations,21300,382,23,6000
+Equitas Small Finance Bank,4.5,Banking,Chennai +422 other locations,11900,434,71,6000
+Delhivery,3.9,Logistics,Gurgaon / Gurugram +666 other locations,18700,450,67,6000
+JPMorgan Chase & Co.,4,Financial Services,Bangalore / Bengaluru +40 other locations,69800,754,674,5900
+Lupin,4.2,Pharma,Pune +179 other locations,22300,332,101,5900
+Zydus Lifesciences,4.1,Pharma,Ahmedabad +160 other locations,18400,300,25,5900
+L&T Construction,4,Engineering & Construction,Chennai +377 other locations,18500,722,17,5900
+Hexaware Technologies,3.6,IT Services & Consulting,Chennai +56 other locations,47200,717,108,5700
+Sun Pharmaceutical Industries,4,Pharma,Vadodara +220 other locations,21700,387,152,5700
+JSW Steel,3.9,Iron & Steel,Ballari +157 other locations,26200,569,80,5600
+ITC,3.9,FMCG,Bangalore / Bengaluru +330 other locations,22300,544,24,5500
+Indian Army,4.7,Defence & Aerospace,New Delhi +342 other locations,9800,149,130,5400
+HCL Group,3.6,IT Services & Consulting,Chennai +84 other locations,51700,448,1,5400
+FIS,3.9,FinTech,Pune +50 other locations,37800,478,200,5400
+KPMG India,3.5,Management Consulting,Bangalore / Bengaluru +92 other locations,51600,798,985,5300
+Max Life Insurance,4.1,Insurance,New Delhi +432 other locations,17900,304,205,5300
+Ujjivan Small Finance Bank,4.1,Banking,Bangalore / Bengaluru +477 other locations,12100,225,39,5200
+IIFL Finance,4,NBFC,Mumbai +721 other locations,14600,243,71,5100
+Oracle,3.7,Software Product,Bangalore / Bengaluru +52 other locations,55500,897,1400,5100
+Tata Projects,4.2,Engineering & Construction,Mumbai +253 other locations,20100,414,17,5100
+Ekart Logistics,4,Retail,Bangalore / Bengaluru +662 other locations,13700,297,22,5000
+Udaan,4,Internet,Bangalore / Bengaluru +345 other locations,17500,335,12,5000
+Megha Engineering & Infrastructures,3.9,Engineering & Construction,Hyderabad / Secunderabad +336 other locations,16300,429,16,4900
+Muthoot Finance,3.6,NBFC,Bangalore / Bengaluru +690 other locations,12400,251,67,4900
+eClerx,3.3,IT Services & Consulting,Pune +23 other locations,28600,505,61,4900
+Omega Healthcare,3.8,BPO,Bangalore / Bengaluru +56 other locations,22700,428,77,4800
+Bajaj Allianz Life Insurance,4,Insurance,Pune +540 other locations,15500,319,46,4700
+JLL,4.1,Real Estate,Gurgaon / Gurugram +72 other locations,21000,343,245,4700
+L&T Technology Services,3.3,IT Services & Consulting,Bangalore / Bengaluru +70 other locations,38600,530,552,4700
+Aurobindo Pharma,4,Pharma,Hyderabad / Secunderabad +95 other locations,21500,234,8,4700
+Indiamart Intermesh,3.6,Internet,Noida +149 other locations,18900,595,261,4700
+Shapoorji Pallonji Group,4.1,Engineering & Construction,Mumbai +180 other locations,15000,326,42,4600
+Coforge,3.3,IT Services & Consulting,Noida +93 other locations,40600,514,305,4600
+Virtusa Consulting Services,3.8,IT Services & Consulting,Hyderabad / Secunderabad +44 other locations,52200,570,1,4600
+Siemens,4.1,Industrial Automation,Bangalore / Bengaluru +140 other locations,30200,428,607,4600
+HSBC Group,4,Financial Services,Bangalore / Bengaluru +56 other locations,36000,490,189,4600
+Firstsource Solutions,3.7,BPO,Bangalore / Bengaluru +58 other locations,22000,289,126,4500
+Apollo Hospitals,4.1,Healthcare,Chennai +199 other locations,15900,337,37,4500
+Standard Chartered,3.8,Banking,Chennai +63 other locations,39100,268,68,4400
+DMart,3.9,Retail,Mumbai +221 other locations,15300,395,163,4400
+Ashok Leyland,4.1,Automobile,Chennai +223 other locations,18300,236,1,4400
+BigBasket,3.9,Internet,Bangalore / Bengaluru +122 other locations,17100,350,22,4400
+CGI Group,4,IT Services & Consulting,Bangalore / Bengaluru +33 other locations,42400,484,168,4400
+ICICI Lombard General Insurance Company,3.7,Insurance,Mumbai +277 other locations,18600,269,129,4400
+Cyient,3.7,IT Services & Consulting,Hyderabad / Secunderabad +40 other locations,26300,282,259,4400
+GlobalLogic,3.7,IT Services & Consulting,Hyderabad / Secunderabad +46 other locations,35200,579,189,4400
+JustDial,3.5,Internet,Noida +192 other locations,15000,328,32,4300
+Cholamandalam Investment & Finance,4,Financial Services,Chennai +713 other locations,11200,176,21,4300
+Hero MotoCorp,4.2,Automobile,Gurgaon / Gurugram +327 other locations,14600,328,10.5,4300
+Mahindra Finance,4.1,NBFC,Mumbai +666 other locations,11600,147,33,4300
+Citicorp,3.7,Financial Services,Pune +62 other locations,42300,563,2,4300
+Vivo,4.1,Consumer Electronics & Appliances,Noida +387 other locations,13400,191,8,4300
+Bosch Global Software Technologies,4,IT Services & Consulting,Bangalore / Bengaluru +34 other locations,35800,331,34,4300
+UST,3.8,IT Services & Consulting,Bangalore / Bengaluru +41 other locations,35800,508,111,4300
+Home Credit Finance,4.1,NBFC,Gurgaon / Gurugram +120 other locations,10400,112,58,4300
+Eviden,3.6,IT Services & Consulting,Pune +33 other locations,29200,305,52,4200
+SMFG India Credit,4,NBFC,Mumbai +525 other locations,10600,154,4,4100
+Manappuram Finance,3.9,NBFC,Bangalore / Bengaluru +548 other locations,8000,144,39,4100
+OPPO,4,Consumer Electronics & Appliances,Noida +381 other locations,12400,210,17,4100
+Nagarro,4,IT Services & Consulting,Gurgaon / Gurugram +40 other locations,27000,776,257,4000
+TVS Motor,4,Automobile,Hosur +296 other locations,14600,307,27,4000
+Optum,4,Healthcare,Hyderabad / Secunderabad +37 other locations,29700,418,61,4000
+SBI Cards & Payment Services,3.7,Financial Services,New Delhi +375 other locations,16000,234,85,4000
+IQVIA,3.9,Clinical Research,Bangalore / Bengaluru +52 other locations,27600,461,33,4000
+BNY,3.9,Financial Services,Pune +18 other locations,28000,337,140,4000
+Swiggy,3.8,Internet,Bangalore / Bengaluru +201 other locations,20600,428,187,4000
+Kalpataru Projects International,4.2,Engineering & Construction,Mumbai +271 other locations,12400,229,2,3900
+Atos,3.9,IT Services & Consulting,Pune +47 other locations,27800,367,44,3900
+Amdocs,3.8,Software Product,Pune +18 other locations,34600,532,175,3900
+CBRE,4.2,Real Estate,Hyderabad / Secunderabad +80 other locations,16700,255,57,3800
+Persistent Systems,3.5,IT Services & Consulting,Pune +37 other locations,37200,610,157,3800
+State Bank of India,3.8,Banking,Mumbai +528 other locations,10800,240,68,3800
+Bosch,4.2,Auto Components,Bangalore / Bengaluru +108 other locations,19600,334,311,3800
+Hewlett Packard Enterprise,4.2,IT Services & Consulting,Bangalore / Bengaluru +92 other locations,26900,230,36,3800
+Hyundai Motor India Limited,4.3,Automobile,Chennai +275 other locations,12700,254,5,3700
+SBI Life Insurance Company,3.8,Insurance,Mumbai +572 other locations,11100,226,2,3700
+JBM Group,4,Auto Components,Gurgaon / Gurugram +94 other locations,13600,256,38,3700
+Dell,4,Consumer Electronics & Appliances,Bangalore / Bengaluru +104 other locations,26800,391,35,3700
+Schneider Electric,4.2,Industrial Automation,Bangalore / Bengaluru +111 other locations,21100,357,436,3700
+NTT Data,3.9,IT Services & Consulting,Bangalore / Bengaluru +58 other locations,26300,603,222,3700
+Ecom Express,3.9,Logistics,Gurgaon / Gurugram +665 other locations,8900,195,17,3700
+Marpu Foundation,4.8,Non-Profit,Hyderabad / Secunderabad +55 other locations,46,62,32,3600
+ITC Infotech,3.8,IT Services & Consulting,Bangalore / Bengaluru +58 other locations,27900,331,60,3600
+KEC International,4.1,Engineering & Construction,Mumbai +277 other locations,11900,290,1,3600
+Piramal Capital Housing Finance,4.2,NBFC,Mumbai +355 other locations,9100,181,7,3600
+Nagarjuna Construction Company,4.1,Engineering & Construction,Hyderabad / Secunderabad +245 other locations,10800,297,17,3600
+PolicyBazaar,3.6,Internet,Gurgaon / Gurugram +110 other locations,14500,342,54,3600
+Aditya Birla Fashion and Retail,4.1,Fashion & Textile,Bangalore / Bengaluru +244 other locations,12300,190,17,3500
+CARS24,3.6,Internet,Gurgaon / Gurugram +158 other locations,14000,322,69,3500
+Oyo Rooms,3.3,Hospitality,Gurgaon / Gurugram +120 other locations,20900,226,48,3500
+Varun Beverages,4,Beverage,New Delhi +318 other locations,10600,221,58,3500
+Reliance Communications,4,Telecom,Mumbai +441 other locations,11200,89,2,3500
+Bajaj Auto,3.9,Automobile,Pune +275 other locations,13400,269,191,3400
+Randstad,3.8,Recruitment,Hyderabad / Secunderabad +287 other locations,14800,258,84,3400
+EY Global Delivery Services ( EY GDS),3.6,Accounting & Auditing,Bangalore / Bengaluru +42 other locations,31500,734,6,3400
+L&T Finance,3.9,NBFC,Mumbai +510 other locations,11000,150,10,3400
+Deutsche Bank,3.9,Banking,Pune +39 other locations,30800,365,753,3300
+Intas Pharmaceuticals,4.1,Pharma,Ahmedabad +129 other locations,15700,199,21,3300
+Tata Communications,4,Telecom,Pune +94 other locations,22900,245,37,3300
+John Deere,4.1,Industrial Machinery,Pune +123 other locations,14600,225,4,3300
+Team Lease,3.9,Recruitment,Bangalore / Bengaluru +338 other locations,15300,199,1,3300
+R1 RCM,3.9,BPO,New Delhi +37 other locations,18400,274,84,3300
+Royal Enfield,4.2,Automobile,Chennai +331 other locations,13500,149,11,3300
+Kogta Financial India Limited,4.7,NBFC,Jaipur +231 other locations,1600,82,30,3200
+LG Electronics,4,Consumer Electronics & Appliances,Pune +269 other locations,10400,190,14.5,3200
+Havells,4,Electrical Equipment,Noida +203 other locations,13200,204,30,3200
+Thermax Limited,4.2,Industrial Machinery,Pune +198 other locations,12100,239,42,3200
+Macleods Pharmaceuticals,3.6,Pharma,Mumbai +112 other locations,14700,197,2,3200
+Access Healthcare,3.9,Analytics & KPO,Chennai +39 other locations,21200,202,70,3200
+HDFC Ergo General Insurance,4,Insurance,Mumbai +275 other locations,11700,145,2,3200
+Aakash Educational Services,3.5,Education & Training,New Delhi +221 other locations,12200,306,71,3200
+Hetero,3.9,Pharma,Hyderabad / Secunderabad +53 other locations,14000,198,28,3100
+Tata AIA Life Insurance,4,Insurance,Mumbai +368 other locations,12700,166,1100,3100
+Publicis Sapient,3.5,IT Services & Consulting,Bangalore / Bengaluru +34 other locations,26800,609,123,3100
+Cummins,4.3,Industrial Machinery,Pune +94 other locations,15000,230,131,3100
+PVR Inox,4,Media & Entertainment,New Delhi +140 other locations,9500,158,26,3100
+Godrej & Boyce Manufacturing,3.9,Consumer Electronics & Appliances,Mumbai +136 other locations,15300,173,14,3100
+VE Commercial Vehicles,4,Automobile,Indore +138 other locations,12800,210,9,3100
+Utkarsh Small Finance Bank,3.8,Banking,Varanasi +334 other locations,9700,211,37,3100
+DCB Bank,3.8,Banking,Mumbai +316 other locations,9200,174,249,3100
+Samvardhana Motherson Group,3.8,Auto Components,Noida +81 other locations,12600,213,5,3100
+Viatris,4.2,Pharma,Hyderabad / Secunderabad +74 other locations,13900,133,2,3000
+Future Group,4.3,Retail,Mumbai +203 other locations,9700,76,22,3000
+Subros,3.9,Auto Components,Noida +65 other locations,12200,164,5,3000
+Pidilite Industries,4.3,Chemicals,Mumbai +261 other locations,10500,197,11,3000
+Berger Paints,3.7,Chemicals,Kolkata +280 other locations,8900,256,55,3000
+American Express,4.2,Financial Services,Gurgaon / Gurugram +42 other locations,21100,360,192,3000
+Automatic Data Processing (ADP),4,Software Product,Hyderabad / Secunderabad +32 other locations,20100,229,33,3000
+Indian Oil Corporation,4.4,Oil & Gas,New Delhi +280 other locations,7700,236,17.5,3000
+Abbott,4.1,Pharma,Mumbai +185 other locations,10900,145,228,3000
+Square Yards,4,Internet,Gurgaon / Gurugram +46 other locations,8400,197,15,3000
+Alembic Pharmaceuticals,4,Pharma,Vadodara +160 other locations,13900,199,59,3000
+Sodexo,4.1,Facility Management Services,Mumbai +142 other locations,9600,159,128,3000
+Carelon Global Solutions,4,Software Product,Bangalore / Bengaluru +19 other locations,24300,354,22,3000
+Bharat Electronics,4.2,Electronics Manufacturing,Bangalore / Bengaluru +64 other locations,11900,211,54.5,3000
+Lenskart,3.2,Internet,New Delhi +194 other locations,11000,296,159,2900
+Bank of America,4.3,Banking,Gurgaon / Gurugram +30 other locations,24700,235,66,2900
+Hindalco Industries,4.2,Metals & Mining,Sambalpur +101 other locations,10400,208,26,2900
+Reliance Projects & Property Management Services,4,IT Services & Consulting,Kolkata +553 other locations,5300,171,69,2900
+Dabur,4,FMCG,New Delhi +280 other locations,8200,265,29,2900
+Whitehat jr,3.5,EdTech,Mumbai +50 other locations,9500,311,19,2900
+RBL Bank,3.6,Banking,Mumbai +246 other locations,17000,169,70,2900
+Jindal Steel and Power,3.9,Iron & Steel,Angul +142 other locations,13700,304,21,2900
+Jubilant Foods Works,3.7,Hospitality,New Delhi +215 other locations,8100,165,53,2900
+Cogent E Services,3.3,IT Services & Consulting,Noida +44 other locations,9400,231,69,2800
+Maersk,4.2,Logistics,Pune +41 other locations,16900,201,137,2800
+Escorts Kubota Limited,4.1,Automobile,Faridabad +139 other locations,11800,217,4,2800
+Johnson Controls,3.6,Industrial Automation,Pune +50 other locations,16000,255,143,2800
+Ford Motor,4.4,Automobile,Chennai +117 other locations,14300,143,10.5,2800
+Birlasoft,3.6,IT Services & Consulting,Pune +40 other locations,28400,287,56,2800
+Alkem Laboratories,3.9,Pharma,Mumbai +173 other locations,9200,146,19,2800
+Synechron,3.6,IT Services & Consulting,Pune +29 other locations,26800,358,9,2800
+Glenmark Pharmaceuticals,3.9,Pharma,Mumbai +148 other locations,11200,130,84,2800
+Reliance Digital,4.1,Retail,Mumbai +334 other locations,7900,113,22,2800
+Vishal Mega Mart,3.8,Retail,New Delhi +330 other locations,6600,156,20,2800
+Ipca Laboratories,4,Pharma,Mumbai +140 other locations,11000,150,30,2800
+Indian Air Force,4.6,Defence & Aerospace,New Delhi +125 other locations,5200,51,130,2800
+Aarti Industries,4.2,Agro Chemicals,Bharuch +48 other locations,13600,282,41,2800
+24/7 Customer,3.5,Software Product,Bangalore / Bengaluru +32 other locations,13300,175,30,2800
+PNB MetLife,3.4,Insurance,New Delhi +364 other locations,8000,152,348,2800
+NTT Data Information Processing Services,4,IT Services & Consulting,Bangalore / Bengaluru +32 other locations,27000,114,54,2700
+Kotak Mahindara Life Insurance,3.8,Insurance,Mumbai +228 other locations,11600,217,107,2700
+UBS,4,Financial Services,Pune +18 other locations,28200,337,22,2700
+Honda Motorcycle & Scooter,4.1,Automobile,Gurgaon / Gurugram +248 other locations,11000,149,10.5,2700
+JK Cement,4.1,Building Material,New Delhi +270 other locations,8600,245,2,2700
+DTDC Express,3.8,Logistics,New Delhi +242 other locations,8300,149,37,2700
+Hindustan Coca Cola Beverages,4.2,Beverage,Bangalore / Bengaluru +232 other locations,7200,124,33,2700
+MRF Tyres,3.7,Auto Components,Chennai +174 other locations,11500,294,29,2700
+KPIT Technologies,3.4,Software Product,Pune +35 other locations,20600,294,100,2700
+HARMAN,3.8,Consumer Electronics & Appliances,Bangalore / Bengaluru +32 other locations,23300,257,250,2700
+Kyndryl,4,IT Services & Consulting,Bangalore / Bengaluru +29 other locations,20700,163,15,2700
+Paras Hospital,4.5,Healthcare,Patna +53 other locations,3000,79,29,2700
+State Street Corporation,3.8,Financial Services,Bangalore / Bengaluru +27 other locations,25900,219,12,2700
+Reliance Nippon Life Insurance,3.7,Insurance,Mumbai +450 other locations,8300,129,3,2700
+IGT Solutions,3.3,IT Services & Consulting,New Delhi +42 other locations,12200,207,97,2600
+Ceat Tyres,4,Auto Components,Nagpur +123 other locations,12200,156,5,2600
+NatWest Group,4,Banking,Gurgaon / Gurugram +22 other locations,19300,198,68,2600
+Conduent,3.5,BPO,Bangalore / Bengaluru +28 other locations,17600,191,119,2600
+ABB,4.1,Industrial Automation,Bangalore / Bengaluru +96 other locations,15300,228,436,2600
+UnitedHealth,4,Healthcare,Hyderabad / Secunderabad +15 other locations,17900,83,41,2600
+InterGlobe Aviation,3.6,Aviation,New Delhi +92 other locations,12700,369,33,2600
+GeBBS Healthcare Solutions,3.7,Healthcare,Mumbai +20 other locations,11000,139,24,2600
+Motilal Oswal Financial Services,3.7,Financial Services,Mumbai +142 other locations,10400,230,68,2600
+Aditya Birla Sun Life Insurance,4.1,Insurance,Mumbai +400 other locations,8700,132,41,2600
+TVS Credit,4.4,NBFC,Chennai +350 other locations,6400,99,16,2600
+CMS IT Services,3.1,IT Services & Consulting,Mumbai +144 other locations,10100,130,7,2600
+RSPL Group,4.1,FMCG,Kanpur +215 other locations,9000,185,38,2500
+Alstom Transportation,3.7,Engineering & Construction,Bangalore / Bengaluru +68 other locations,12400,232,55,2500
+ArcelorMittal Nippon Steel,4.1,Iron & Steel,Surat +74 other locations,9900,213,5,2500
+Max Healthcare,4.1,Healthcare,New Delhi +65 other locations,9500,132,98,2500
+Grasim Industries,4,Building Material,Bharuch +166 other locations,10600,205,12,2500
+Tata AIG,4.1,Insurance,Mumbai +238 other locations,10400,153,124,2500
+PepsiCo,4.1,Food Processing,Hyderabad / Secunderabad +241 other locations,11000,197,259,2500
+S&P Global,4.2,Analytics & KPO,Hyderabad / Secunderabad +40 other locations,17700,271,14,2500
+Tata Capital,4.1,NBFC,Mumbai +249 other locations,9200,134,757,2500
+Sahrudaya Healthcare (Medicover Hospitals),4.6,Healthcare,Hyderabad / Secunderabad +40 other locations,3000,122,52,2500
+ACC,3.9,Building Material,Mumbai +235 other locations,9300,184,2,2500
+Titan Company,4.3,Retail,Bangalore / Bengaluru +154 other locations,8600,146,84,2500
+Tata Technologies,3.6,Engineering & Construction,Pune +47 other locations,20300,252,100,2500
+UPL,4.1,Agro Chemicals,Ankleshwar +168 other locations,10700,171,26,2500
+IDFC FIRST Bharat,4.5,Financial Services,Chennai +329 other locations,4500,105,22.5,2400
+Amazon Transportation Services,4.2,Ports & Shipping,Hyderabad / Secunderabad +200 other locations,6900,221,13,2400
+Zensar Technologies,3.7,IT Services & Consulting,Pune +24 other locations,25100,259,569,2400
+Shoppers Stop,4.1,Retail,Mumbai +76 other locations,7100,110,4,2400
+Torrent Pharmaceuticals,3.9,Pharma,Ahmedabad +106 other locations,10000,123,36,2400
+UNO Minda,4,Auto Components,Pune +91 other locations,9400,165,22,2400
+Varroc Group,3.7,Auto Components,Pune +57 other locations,7800,171,3,2400
+Mankind Pharma,3.9,Pharma,New Delhi +217 other locations,8400,190,33,2400
+Croma,4,Retail,Mumbai +163 other locations,7700,122,53,2400
+Afcons Infrastructure,4.3,Engineering & Construction,Mumbai +107 other locations,8000,202,4,2400
+Dilip Buildcon,4,Engineering & Construction,Bhopal +201 other locations,8100,139,14,2400
+Bajaj Allianz General Insurance,3.9,Insurance,Pune +247 other locations,8900,88,344,2400
+Walmart,3.8,Retail,Bangalore / Bengaluru +84 other locations,16900,405,208,2400
+Flex,4,Electronics Manufacturing,Chennai +40 other locations,16800,180,79,2300
+ElasticRun,3.5,Logistics,Pune +362 other locations,6300,249,15,2300
+I Process Services,3.9,Banking,Mumbai +346 other locations,5400,90,68,2300
+HDFC Sales,4,Financial Services,Mumbai +297 other locations,8400,165,23,2300
+Capita,3.6,IT Services & Consulting,Pune +27 other locations,13700,144,61,2300
+Societe Generale Global Solution Centre,3.9,IT Services & Consulting,Bangalore / Bengaluru +19 other locations,20100,252,19,2300
+Nokia,4.1,Telecom,Bangalore / Bengaluru +156 other locations,14800,273,44,2300
+MSN Laboratories,3.7,Pharma,Hyderabad / Secunderabad +81 other locations,8400,127,36,2300
+Statestreet HCL Services,3.3,BPO,Chennai +16 other locations,16200,208,82,2300
+GATI-KWE,4,Logistics,Hyderabad / Secunderabad +155 other locations,5700,86,3,2300
+Quest Global,3.6,IT Services & Consulting,Bangalore / Bengaluru +38 other locations,18200,297,121,2300
+Apollo Tyres,4,Auto Components,Chennai +154 other locations,9400,127,7,2300
+Barclays,3.8,Banking,Pune +32 other locations,24400,273,68,2300
+Nestle,4,FMCG,Gurgaon / Gurugram +259 other locations,9400,237,49,2300
+Fiserv,3.1,FinTech,Pune +32 other locations,18400,168,28,2300
+Sammaan Capital Limited,3.8,NBFC,New Delhi +192 other locations,7700,101,26,2200
+Suzlon Group,4,Power,Pune +115 other locations,7300,127,17,2200
+Landmark Group,4,Retail,Bangalore / Bengaluru +151 other locations,8900,143,15,2200
+AGS Health,4,Analytics & KPO,Chennai +47 other locations,10400,158,22,2200
+IKS Health,3.6,BPO,Mumbai +23 other locations,10000,230,29,2200
+Blue Dart Express,4.1,Logistics,Mumbai +247 other locations,6400,100,1,2200
+PhonePe,4,FinTech,Bangalore / Bengaluru +274 other locations,9800,302,128,2200
+BlackBuck,3.8,Internet,Bangalore / Bengaluru +336 other locations,6300,172,7,2200
+Domino's Pizza,3.9,Food Processing,New Delhi +228 other locations,4300,90,42,2200
+Zomato,3.8,Internet,Gurgaon / Gurugram +193 other locations,12800,316,6,2200
+Bajaj Electricals,4,Consumer Electronics & Appliances,Mumbai +206 other locations,7900,120,33,2200
+Yazaki,3.8,Auto Components,Pune +76 other locations,8100,131,1,2100
+Sterlite Technologies,3.8,Hardware & Networking,Aurangabad +89 other locations,10300,163,27,2100
+G4S,4,Law Enforcement & Security,Gurgaon / Gurugram +142 other locations,4900,95,1,2100
+Axis Direct,3.8,Financial Services,Mumbai +260 other locations,5500,76,34,2100
+Britannia,4,FMCG,Bangalore / Bengaluru +250 other locations,7500,162,2,2100
+DS Group,4,FMCG,Noida +227 other locations,7000,143,26,2100
+KocharTech,4,IT Services & Consulting,Kolkata +24 other locations,3900,68,39,2100
+Shree Cement,3.8,Building Material,Ajmer +220 other locations,9200,150,2,2100
+Micro Labs,3.7,Pharma,Bangalore / Bengaluru +133 other locations,9400,124,23,2100
+Fujitsu,3.8,IT Services & Consulting,Pune +35 other locations,16000,183,51,2100
+Capgemini Engineering,3.5,IT Services & Consulting,Bangalore / Bengaluru +25 other locations,17200,353,98,2100
+KPMG Global Services,3.6,Management Consulting,Bangalore / Bengaluru +33 other locations,19500,219,278,2100
+XpressBees,3.7,Logistics,Pune +255 other locations,7600,157,11,2100
+McDonald's,4.1,Food Processing,New Delhi +140 other locations,4700,130,3,2100
+Exide Industries,3.5,Auto Components,Kolkata +191 other locations,7800,165,58,2100
+Mahindra Logistics,3.9,Logistics,Pune +142 other locations,8600,119,10,2100
+Voltas,4,Consumer Electronics & Appliances,Mumbai +182 other locations,8200,126,5,2100
+TVS Supply Chain Solutions,3.8,Logistics,Chennai +140 other locations,8200,129,3,2100
+KFintech,3.5,IT Services & Consulting,Hyderabad / Secunderabad +104 other locations,10100,131,21,2100
+Patanjali Ayurved,4,FMCG,Haridwar +267 other locations,6400,108,1,2100
+Indus Towers,3.8,Hardware & Networking,Gurgaon / Gurugram +182 other locations,7800,173,36,2100
+ZS,3.4,Management Consulting,Pune +14 other locations,16300,482,41,2100
+Tata Elxsi,3.9,IT Services & Consulting,Bangalore / Bengaluru +27 other locations,18700,294,45,2100
+Fortis Healthcare,4,Healthcare,New Delhi +63 other locations,7200,124,74,2100
+Huawei Technologies,4,Telecom,Bangalore / Bengaluru +103 other locations,10100,114,50,2000
+Dalmia Bharat Cement,4,Building Material,Chennai +220 other locations,8200,139,2,2000
+ACT Fibernet,4,Telecom,Hyderabad / Secunderabad +48 other locations,7400,132,50,2000
+Tractors and Farm Equipment,4.1,Industrial Machinery,Chennai +172 other locations,8100,101,6,2000
+VVDN Technologies,3.6,IT Services & Consulting,Gurgaon / Gurugram +36 other locations,11500,192,11,2000
+SRF,4.2,Chemicals,Bharuch +56 other locations,8000,174,24,2000
+Jindal Stainless,4.2,Iron & Steel,Jajpur +61 other locations,9800,200,70,2000
+Taj Hotels Resorts and Palaces,4.2,Management Consulting,Mumbai +99 other locations,4800,118,41,2000
+Shell,4,Oil & Gas,Bangalore / Bengaluru +81 other locations,12800,191,1,2000
+Himalaya Wellness,4.1,Healthcare,Bangalore / Bengaluru +209 other locations,6000,107,6,2000
+Blue Star,4.1,Consumer Electronics & Appliances,Mumbai +138 other locations,9100,158,16,2000
+NoBroker,3.2,Real Estate,Bangalore / Bengaluru +39 other locations,9100,226,100,2000
+Movate,3.3,IT Services & Consulting,Chennai +32 other locations,13700,248,45,2000
+Sonalika Tractors,3.7,Automobile,Hoshiarpur +163 other locations,8300,126,10.5,2000
+Ajanta Pharma,4,Pharma,Mumbai +108 other locations,8400,112,6,2000
+Simplex Infrastructures,3.3,Engineering & Construction,Kolkata +134 other locations,5800,65,60,2000
+Lava International,4.1,Consumer Electronics & Appliances,Noida +216 other locations,4700,68,9,2000
+V-Mart,4.2,Retail,Gurgaon / Gurugram +255 other locations,4200,144,16,2000
+Xoriant,4.1,IT Services & Consulting,Pune +23 other locations,11000,180,43,2000
+Cloudnine Hospital,4.4,Healthcare,Bangalore / Bengaluru +32 other locations,2500,111,1,2000
+Blinkit,3.7,Internet,Gurgaon / Gurugram +73 other locations,9100,179,32,2000
+Kansai Nerolac Paints,3.8,Chemicals,Mumbai +201 other locations,6800,145,11,2000
+Lifestyle,4.3,Retail,Bangalore / Bengaluru +122 other locations,6800,62,2,2000
+Akums Drugs & Pharmaceuticals Limited,4.4,Pharma,Haridwar +32 other locations,5900,293,13,2000
+Datamatics Global Services,3.4,IT Services & Consulting,Mumbai +30 other locations,11500,156,59,1900
+Mahindra Rural Housing Finance,4,NBFC,Mumbai +429 other locations,4900,82,21,1900
+State Street Syntel,3.7,Financial Services,Pune +22 other locations,9200,74,22.5,1900
+Aditya Birla Group,4.1,Building Material,Mumbai +230 other locations,10100,196,2,1900
+suzuki motor gujarat,4.3,Automobile,Ahmedabad +105 other locations,7200,172,16,1900
+Info Edge,3.9,Internet,Noida +62 other locations,10800,318,503,1900
+Ola Cabs,3.4,Internet,Bangalore / Bengaluru +96 other locations,10800,142,17,1900
+Foundever,3.6,BPO,Hyderabad / Secunderabad +17 other locations,7400,140,86,1900
+Unacademy,3,EdTech,Bangalore / Bengaluru +65 other locations,9600,208,40,1900
+Cholamandalam MS General Insurance,3.8,Insurance,Chennai +342 other locations,5800,89,41,1900
+Delhi Public School,3.8,EdTech,New Delhi +248 other locations,5400,109,13,1900
+Myntra,4,Internet,Bangalore / Bengaluru +100 other locations,9700,215,75,1900
+Cybage,3.8,IT Services & Consulting,Pune +9 other locations,16700,196,36,1900
+Eureka Forbes,3.7,Consumer Electronics & Appliances,Mumbai +166 other locations,5600,68,14.5,1900
+Extramarks Education,3.4,EdTech,Noida +105 other locations,7900,168,18,1900
+3i Infotech,3.5,IT Services & Consulting,Mumbai +113 other locations,10800,141,37,1900
+Kalyan Jewellers,4.6,Jewellery,Thrissur +137 other locations,1400,56,14,1900
+Mahindra Holidays & Resorts,3.5,Hospitality,Mumbai +101 other locations,6000,91,53,1900
+Parle Agro,4.1,Beverage,Mumbai +208 other locations,6400,101,7,1900
+BT Group,4,Telecom,Gurgaon / Gurugram +18 other locations,10600,177,23,1900
+Ninjacart,4,Internet,Bangalore / Bengaluru +101 other locations,5800,94,5,1900
+Emcure Pharmaceuticals,3.7,Pharma,Pune +101 other locations,8100,99,27,1900
+Radisson Hotels,4,Management Consulting,New Delhi +111 other locations,5500,73,78,1900
+ICICI Securities,3.9,Financial Services,Mumbai +131 other locations,8900,154,1,1900
+Syngene International,3.9,Clinical Research,Bangalore / Bengaluru +18 other locations,11400,157,49,1900
+Nokia Networks,4.3,Hardware & Networking,Chennai +80 other locations,11800,110,36,1900
+Biocon Limited,3.9,Biotechnology,Bangalore / Bengaluru +57 other locations,11500,149,19,1900
+Gallagher,3.8,Insurance,Bangalore / Bengaluru +23 other locations,11500,212,45,1900
+JCB,4,Automobile,Pune +96 other locations,9000,121,10.5,1800
+Care Health Insurance,3.6,FinTech,New Delhi +209 other locations,7900,112,55,1800
+Intellect Design Arena,4,Software Product,Chennai +34 other locations,11700,157,2,1800
+Google,4.4,Software Product,Bangalore / Bengaluru +79 other locations,17500,870,3,1800
+Canara HSBC Life Insurance,3.7,Insurance,Gurgaon / Gurugram +267 other locations,6200,95,12,1800
+Planet Spark,3.7,EdTech,Gurgaon / Gurugram +43 other locations,2900,364,62,1800
+Life Insurance Corporation of India,4.4,Insurance,New Delhi +432 other locations,4400,74,4,1800
+ESAF Small Finance Bank,3.8,Banking,Thrissur +328 other locations,6400,108,7,1800
+Cadila Pharmaceuticals,3.5,Pharma,Ahmedabad +116 other locations,7100,117,22,1800
+IntouchCX,2.9,BPO,Hyderabad / Secunderabad +18 other locations,8000,190,139,1800
+Adani Power,3.9,Power,Mundra +102 other locations,8200,210,28.5,1800
+upGrad,3.7,EdTech,Mumbai +41 other locations,8100,206,70,1800
+Bharat Financial Inclusion,3.9,NBFC,Hyderabad / Secunderabad +384 other locations,4200,66,10,1800
+GlaxoSmithKline Pharmaceuticals,4.1,Pharma,Bangalore / Bengaluru +190 other locations,5400,103,53,1800
+Indian Railways,4.1,Railways,Kolkata +217 other locations,3500,83,32,1800
+DBS Bank,3.8,Banking,Hyderabad / Secunderabad +151 other locations,12100,154,121,1800
+Star Health & Allied Insurance,3.7,Insurance,Chennai +277 other locations,8100,103,17,1800
+RMSI,3.6,IT Services & Consulting,Hyderabad / Secunderabad +18 other locations,7800,115,23,1800
+Sobha,3.9,Real Estate,Bangalore / Bengaluru +35 other locations,7900,124,49,1800
+Photon Interactive,4,IT Services & Consulting,Chennai +12 other locations,6800,105,277,1800
+Sopra Steria,3.8,IT Services & Consulting,Noida +16 other locations,13400,125,182,1800
+Reliance Trends,4.3,Retail,Bangalore / Bengaluru +353 other locations,4400,101,22,1800
+Whirlpool,4,Consumer Electronics & Appliances,Pune +146 other locations,7800,92,3,1800
+Cisco,4.1,Hardware & Networking,Bangalore / Bengaluru +36 other locations,17300,396,42,1800
+Pfizer,4,Pharma,Visakhapatnam +116 other locations,5800,69,28,1800
+Aavas Financiers,3.9,NBFC,Jaipur +251 other locations,5600,85,67,1800
+Renault-Nissan,4.2,Automobile,Chennai +78 other locations,7500,101,10.5,1700
+Hero FinCorp,4,NBFC,New Delhi +349 other locations,5000,87,36,1700
+Bharti AXA Life Insurance,3.9,Insurance,Mumbai +224 other locations,5100,117,6,1700
+Shahi Exports,4,Fashion & Textile,Bangalore / Bengaluru +61 other locations,6800,99,55,1700
+Raymond Lifestyle Limited,4.1,Fashion & Textile,Mumbai +131 other locations,6900,88,3,1700
+Bureau Veritas,3.9,Other,Noida +118 other locations,7600,107,20,1700
+Straive,3.4,Analytics & KPO,Chennai +25 other locations,9100,171,35,1700
+GVK Emergency Management and Research Institute,3.6,EdTech,Lucknow +167 other locations,4300,82,7,1700
+Endurance Technologies,3.9,Auto Components,Aurangabad +44 other locations,7400,100,3,1700
+Ambuja Cements,3.9,Building Material,Mumbai +215 other locations,6000,107,2,1700
+Rivigo,3.9,Internet,Gurgaon / Gurugram +152 other locations,6200,72,32,1700
+Lodha Group,4,Real Estate,Mumbai +22 other locations,7900,122,129,1700
+Optum Global Solutions,4.1,IT Services & Consulting,Hyderabad / Secunderabad +14 other locations,9600,177,69,1700
+Kia Motors,3.9,Automobile,Anantapur +154 other locations,7400,129,1,1700
+Bharat Petroleum,4.2,Oil & Gas,Mumbai +236 other locations,6500,155,17.5,1700
+HSBC Electronic Data Processing,4.1,Banking,Bangalore / Bengaluru +17 other locations,8800,57,2,1700
+Alldigi Tech,3.8,BPO,Chennai +30 other locations,6900,120,28,1700
+BHEL,4.1,Electrical Equipment,Bangalore / Bengaluru +100 other locations,5200,109,30,1700
+Force Motors,3.6,Automobile,Pune +87 other locations,7900,116,1,1700
+Future Retail,4.3,Retail,Mumbai +197 other locations,5400,53,22,1700
+Niva Bupa Health Insurance Company,3.7,Insurance,New Delhi +207 other locations,7200,115,26,1700
+Tata Advanced Systems,3.7,Defence & Aerospace,Bangalore / Bengaluru +42 other locations,10300,128,6,1700
+Renault Nissan Technology & Business Centre India,3.8,Automobile,Chennai +15 other locations,13600,122,34,1700
+Senco Gold,4.5,Jewellery,Kolkata +69 other locations,1300,535,7,1700
+Poonawalla Fincorp,3.8,NBFC,Pune +250 other locations,5000,56,16,1700
+Panasonic Life Solutions India,4.1,Consumer Electronics & Appliances,Haridwar +131 other locations,5900,68,14,1700
+CAMS,3.7,Financial Services,Chennai +93 other locations,7600,111,21,1700
+Meesho,3.7,Internet,Bangalore / Bengaluru +103 other locations,7300,329,158,1700
+Henry Harvin Education,3.9,EdTech,Noida +27 other locations,736,12,43,1700
+ValueLabs,3.7,IT Services & Consulting,Hyderabad / Secunderabad +16 other locations,14800,191,104,1700
+Bank of Baroda,3.6,Banking,Mumbai +266 other locations,6300,103,1,1700
+Laurus Labs,4.2,Pharma,Visakhapatnam +20 other locations,6800,105,7,1700
+Coromandel International,4.1,Agro Chemicals,Visakhapatnam +156 other locations,6900,95,26,1700
+Apollo Pharmacy,3.9,Pharma,Hyderabad / Secunderabad +228 other locations,5600,116,11,1700
+GAO Tek,4.5,Electrical Equipment,New York +27 other locations,207,148,13,1700
+Cargill,4,Food Processing,Bangalore / Bengaluru +101 other locations,7500,94,81,1700
+Microsoft Corporation,4,Software Product,Bangalore / Bengaluru +40 other locations,21200,575,31.5,1600
+Delphi TVS,3.9,Auto Components,Chennai +46 other locations,5500,82,1,1600
+Brakes India,4,Auto Components,Chennai +79 other locations,6700,70,2,1600
+American Broadcasting Company,4,Media & Entertainment,Mumbai +99 other locations,22800,547,2,1600
+Adani Wilmar,4.2,FMCG,Ahmedabad +170 other locations,6300,103,14,1600
+Future Generali India Life Insurance,3.7,Insurance,Mumbai +174 other locations,6500,91,149,1600
+TCE,3.8,Engineering & Construction,Mumbai +113 other locations,7700,244,72,1600
+Sagility,3.9,BPO,Bangalore / Bengaluru +22 other locations,7400,160,43,1600
+SAP,4.2,Software Product,Bangalore / Bengaluru +50 other locations,14500,308,274,1600
+ITC Hotels,4.1,Management Consulting,Bangalore / Bengaluru +78 other locations,5400,81,278,1600
+Sify Technologies,3.9,IT Services & Consulting,Chennai +114 other locations,9400,121,25,1600
+Dhani Loans and Services,3.8,NBFC,Gurgaon / Gurugram +179 other locations,5100,69,1,1600
+Tata Motors Finance,4.1,NBFC,Mumbai +237 other locations,4500,64,1,1600
+Wipro Enterprises Ltd,3.8,FMCG,Bangalore / Bengaluru +198 other locations,7100,154,90,1600
+Allstate,3.9,Insurance,Pune +10 other locations,10800,131,30,1600
+KENT RO Systems,4,Consumer Electronics & Appliances,Noida +139 other locations,4600,77,3,1600
+Exl India,3.5,Logistics,New Delhi +28 other locations,11200,100,1,1600
+CitiusTech,3.4,IT Services & Consulting,Mumbai +17 other locations,12700,267,8,1600
+Aditya Birla Capital,3.9,Financial Services,Mumbai +222 other locations,8000,147,22.5,1600
+Star Union Dai-ichi Life Insurance,3.9,Insurance,Mumbai +264 other locations,4800,86,71,1600
+SBI Securities,3.8,Financial Services,Mumbai +250 other locations,6000,143,82,1600
+Spark Minda,3.9,Auto Components,Pune +60 other locations,6200,119,4,1600
+SBI General Insurance,3.7,Insurance,Mumbai +238 other locations,5800,97,26,1600
+YASH Technologies,3.8,IT Services & Consulting,Hyderabad / Secunderabad +24 other locations,15600,142,363,1600
+Ola Electric Mobility,3.3,Automobile,Bangalore / Bengaluru +232 other locations,7400,208,10.5,1600
+Kotak Securities,3.6,Financial Services,Mumbai +123 other locations,8700,113,22,1600
+Gabriel India,4.1,Auto Components,Hosur +43 other locations,5500,95,5,1600
+Matrimony.com,4.3,Internet,Chennai +57 other locations,4400,89,28,1600
+L&T Energy Hydrocarbon,3.9,Engineering & Construction,Vadodara +75 other locations,8200,92,1,1600
+NeoSOFT,4,IT Services & Consulting,Mumbai +20 other locations,9300,260,17,1600
+AECOM,4.3,Engineering & Construction,Gurgaon / Gurugram +113 other locations,6200,111,112,1600
+Sterling & Wilson,4.1,Engineering & Construction,Mumbai +104 other locations,7800,63,2,1600
+Power Mech Projects,3.9,Engineering & Construction,Hyderabad / Secunderabad +125 other locations,6300,93,5,1600
+IDBI Bank,3.5,Banking,Mumbai +298 other locations,5800,67,68,1600
+Crisil,3.7,Analytics & KPO,Mumbai +64 other locations,11300,185,432,1600
+JK Tyres,3.7,Auto Components,Chennai +131 other locations,6500,91,5,1600
+Physicswallah,3.8,EdTech,Noida +87 other locations,5100,191,28,1600
+Parle Products,3.9,FMCG,Mumbai +212 other locations,4100,88,7,1600
+Lucas-TVS,4,Auto Components,Chennai +66 other locations,5800,71,3,1500
+Saint-Gobain,4,Engineering & Construction,Mumbai +93 other locations,9700,171,45,1500
+Novartis,4.1,Pharma,Hyderabad / Secunderabad +70 other locations,8600,140,252,1500
+Uflex,3.8,Packaging,Noida +43 other locations,6500,104,49,1500
+Adani Group,3.9,Power,Ahmedabad +151 other locations,8700,178,246,1500
+Thomson Reuters,4.1,Software Product,Bangalore / Bengaluru +24 other locations,10100,112,2,1500
+Reliance General Insurance,3.7,Insurance,Mumbai +179 other locations,6800,79,41,1500
+Hindustan Aeronautics,4.3,Defence & Aerospace,Bangalore / Bengaluru +48 other locations,4200,72,130,1500
+Paisabazaar.com,3.5,Internet,Gurgaon / Gurugram +26 other locations,6600,138,45,1500
+Mercedes-Benz Research and Development India,3.9,IT Services & Consulting,Bangalore / Bengaluru +46 other locations,15200,188,117,1500
+Vedantu,3.4,EdTech,Bangalore / Bengaluru +62 other locations,9100,192,19,1500
+Safexpress,4,Logistics,New Delhi +147 other locations,5400,97,2,1500
+Microland,3.5,IT Services & Consulting,Bangalore / Bengaluru +42 other locations,10800,124,299,1500
+SGS,3.9,Other,Mumbai +121 other locations,6000,91,18,1500
+Team Computers,3.6,IT Services & Consulting,New Delhi +90 other locations,7900,89,37,1500
+Dr Lal PathLabs,4.2,Healthcare,New Delhi +163 other locations,4300,123,29,1500
+Philips,3.9,Consumer Electronics & Appliances,Bangalore / Bengaluru +84 other locations,10100,156,50,1500
+Nuvoco Vistas,4.1,Building Material,Kolkata +163 other locations,6100,90,15,1500
+Morgan Stanley,3.7,Financial Services,Mumbai +17 other locations,20400,306,8,1500
+G R Infraprojects,4.1,Engineering & Construction,Gurgaon / Gurugram +140 other locations,5200,130,24,1500
+NCR Voyix,3.9,Software Product,Hyderabad / Secunderabad +85 other locations,8100,124,36,1500
+Narayana Health,4.1,Healthcare,Bangalore / Bengaluru +61 other locations,5600,61,45,1500
+TaskUs,3.4,BPO,Indore +29 other locations,6800,171,80,1500
+Frankfinn Institute of Air Hostess Training,4,Education & Training,Gurgaon / Gurugram +60 other locations,3300,99,17,1500
+café Coffee day,3.8,Hospitality,Bangalore / Bengaluru +98 other locations,4100,59,7,1500
+Biological E,4.2,Pharma,Hyderabad / Secunderabad +58 other locations,6400,108,12,1500
+BNP Paribas,3.8,Financial Services,Mumbai +24 other locations,14300,176,22,1500
+Aragen Life Sciences,4,Clinical Research,Hyderabad / Secunderabad +22 other locations,6000,102,12,1500
+TVS Sundram Fasteners,3.7,Auto Components,Chennai +52 other locations,6700,70,5,1500
+Honda Cars,4.4,Automobile,Bhiwadi +102 other locations,6300,87,10.5,1500
+Honeywell Automation,3.8,Industrial Automation,Pune +69 other locations,10900,104,436,1500
+Tata Teleservices,4,Telecom,Mumbai +135 other locations,4000,30,38,1500
+Taurus BPO Services,4.5,BPO,Pune +15 other locations,824,25,82,1500
+FirstCry,3.7,Internet,Pune +167 other locations,7900,164,20,1500
+NTPC,4.2,Power,New Delhi +106 other locations,4000,159,28.5,1500
+Angel One,3.9,FinTech,Mumbai +117 other locations,7100,131,83,1500
+HCL Infosystems,3.9,IT Services & Consulting,Bangalore / Bengaluru +105 other locations,8600,141,69,1500
+SS&C TECHNOLOGIES,3.4,IT Services & Consulting,Mumbai +28 other locations,12300,167,74,1500
+Medi Assist India,3.6,Insurance,Bangalore / Bengaluru +57 other locations,6900,113,39,1500
+Daikin,4.2,Consumer Electronics & Appliances,Neemrana +95 other locations,6500,143,2,1500
+NEC,4.4,IT Services & Consulting,Noida +49 other locations,5500,70,7,1500
+Fusion CX,3.5,IT Services & Consulting,Kolkata +45 other locations,4100,98,108,1500
+Iris Software,4,IT Services & Consulting,Noida +19 other locations,6800,139,37,1500
+V-Guard Industries,4.4,Consumer Electronics & Appliances,Kochi +142 other locations,4000,61,20,1500
+Indian Navy,4.6,Defence & Aerospace,Mumbai +66 other locations,3500,21,130,1500
+MetLife,4.2,Insurance,Noida +40 other locations,7900,84,26,1500
+R.R. Donnelley,3.9,Marketing & Advertising,Chennai +15 other locations,9300,99,19,1500
+BA Continuum,4.2,NBFC,Hyderabad / Secunderabad +17 other locations,9900,98,26,1400
+CMS Infosystems,3.6,Other,Mumbai +181 other locations,4500,50,20,1400
+Adecco Group,3.7,Management Consulting,Bangalore / Bengaluru +148 other locations,6500,87,12,1400
+Tata Play,4,Broadcasting,Mumbai +207 other locations,4800,70,4,1400
+Infinite Computer Solutions,3.4,IT Services & Consulting,Bangalore / Bengaluru +32 other locations,12300,138,201,1400
+Innovsource Services,4,Recruitment,Mumbai +210 other locations,4500,61,1,1400
+Trident Group,3.5,Fashion & Textile,Ludhiana +51 other locations,5200,111,5,1400
+Globiva,3.1,BPO,Gurgaon / Gurugram +20 other locations,4700,102,28,1400
+Torrent Power,3.7,Power,Ahmedabad +44 other locations,7000,125,40,1400
+Honda,4.2,Automobile,Gurgaon / Gurugram +208 other locations,4900,99,3,1400
+AXA Business Services,3.9,Insurance,Pune +9 other locations,6900,74,61,1400
+PI Industries,4,Agro Chemicals,Bharuch +92 other locations,6400,104,11,1400
+Haier Appliances India,4,Consumer Electronics & Appliances,Pune +116 other locations,6400,120,23,1400
+Infinx,4.1,Software Product,Hyderabad / Secunderabad +30 other locations,4500,183,18,1400
+Motherson Automotive Technologies and Engineering,3.8,Auto Components,Chennai +59 other locations,6800,111,9,1400
+Chegg,4.1,EdTech,New Delhi +63 other locations,3900,154,16,1400
+Metro Cash & Carry,4.1,Retail,Bangalore / Bengaluru +84 other locations,4900,57,22,1400
+Altruist Technologies,3.1,BPO,Bangalore / Bengaluru +39 other locations,7400,126,3,1400
+Reckitt Benckiser,4,FMCG,Gurgaon / Gurugram +114 other locations,6000,86,22,1400
+DHL Supply Chain,4.2,Logistics,Mumbai +80 other locations,5400,80,19,1400
+USV,4,Pharma,Mumbai +95 other locations,5200,71,21,1400
+Dainik Bhaskar Group,4.4,Printing & Publishing,Bhopal +141 other locations,4400,56,60,1400
+USHA International,4.1,Consumer Electronics & Appliances,Gurgaon / Gurugram +123 other locations,4700,87,15,1400
+Jindal Saw,4,Iron & Steel,Mundra +67 other locations,6000,97,1,1400
+CMA CGM,3.9,Ports & Shipping,Chennai +27 other locations,8200,91,13,1400
+Tata Communications Transformation Services,4,Telecom,Pune +86 other locations,8300,80,50,1400
+Foxconn,3.9,Electronics Manufacturing,Chennai +45 other locations,7600,146,30,1400
+Aadhar Housing Finance,4.1,Financial Services,Mumbai +277 other locations,4100,87,4,1400
+FactSet,3.9,Financial Services,Hyderabad / Secunderabad +16 other locations,9200,207,44,1400
+HTC Global Services,3.6,IT Services & Consulting,Chennai +27 other locations,11500,131,67,1400
+BT Business,4.1,Hardware & Networking,Gurgaon / Gurugram +10 other locations,8900,77,36,1400
+PHN Technology,4.5,IT Services & Consulting,Pune +30 other locations,299,29,12,1400
+Exela Technologies,3.3,IT Services & Consulting,Chennai +20 other locations,7700,77,16,1400
+Wockhardt,3.9,Pharma,Aurangabad +78 other locations,4400,51,7,1400
+KONE,4.2,Industrial Machinery,Chennai +65 other locations,5400,99,34,1400
+First American Corporation,3.6,Insurance,Bangalore / Bengaluru +16 other locations,8300,74,35,1400
+Tata Power,3.9,Power,Mumbai +129 other locations,6500,160,14,1400
+HERE Technologies,3.9,IT Services & Consulting,Mumbai +14 other locations,7300,86,34,1400
+Cavinkare,4,FMCG,Chennai +157 other locations,4800,55,2,1400
+DHL Express,4.1,Logistics,Mumbai +88 other locations,6100,61,5,1400
+Johnson & Johnson,4.1,Healthcare,Mumbai +150 other locations,5900,93,7,1400
+Manipal Hospitals,4.2,Healthcare,Bangalore / Bengaluru +61 other locations,5600,80,69,1300
+XL Dynamics,3.2,IT Services & Consulting,Mumbai +28 other locations,3400,106,6,1300
+DIVI'S Laboratories,3.8,Pharma,Visakhapatnam +27 other locations,6300,71,25,1300
+Verizon,4.1,Telecom,Hyderabad / Secunderabad +9 other locations,10400,112,143,1300
+EPAM Systems,3.8,IT Services & Consulting,Hyderabad / Secunderabad +22 other locations,13400,534,866,1300
+Newgen Software Technologies,3.7,IT Services & Consulting,Noida +28 other locations,10400,183,19,1300
+Isgec Heavy Engineering,3.8,Industrial Machinery,Noida +77 other locations,6600,114,21,1300
+Arvind Group,4,Fashion & Textile,Ahmedabad +83 other locations,5400,61,2,1300
+Procter & Gamble,4.2,FMCG,Mumbai +224 other locations,5500,113,16,1300
+Hindustan Petroleum,4.2,Oil & Gas,Mumbai +213 other locations,5600,97,17.5,1300
+Mother Dairy Fruit & Vegetable,4.1,Food Processing,New Delhi +117 other locations,4600,71,1,1300
+Yamaha Motor,4.2,Automobile,Chennai +135 other locations,5300,64,27,1300
+HighRadius,2.9,FinTech,Hyderabad / Secunderabad +13 other locations,7100,181,59,1300
+Orange Business,4.3,IT Services & Consulting,Gurgaon / Gurugram +47 other locations,8800,96,71,1300
+Polycab Wires,4,Electrical Equipment,Vadodara +134 other locations,6100,91,44,1300
+Jio Platforms,3.5,IT Services & Consulting,Mumbai +80 other locations,9700,192,69,1300
+Trent,4,Retail,Mumbai +117 other locations,3900,74,22,1300
+Spinny,3.7,Internet,Gurgaon / Gurugram +47 other locations,6000,165,9,1300
+HDFC Securities,3.6,Banking,Mumbai +170 other locations,5600,102,47,1300
+Tata Group,4.2,IT Services & Consulting,Mumbai +163 other locations,5400,358,1,1300
+Shadowfax Technologies,3.6,Logistics,Bangalore / Bengaluru +184 other locations,5800,115,10,1300
+Sheenlac Paints,4.5,Chemicals,Chennai +157 other locations,1600,203,17.5,1300
+Honeywell Technology Solutions,3.8,Defence & Aerospace,Bangalore / Bengaluru +19 other locations,11900,149,254,1300
+Oracle Cerner,3.7,Software Product,Bangalore / Bengaluru +6 other locations,10700,157,31.5,1300
+Bata,3.7,Fashion & Textile,Gurgaon / Gurugram +132 other locations,4000,59,6,1300
+Big Bazaar,4.3,Retail,New Delhi +157 other locations,3600,43,22,1300
+Relaxo Footwear,4.2,Fashion & Textile,New Delhi +136 other locations,4200,81,45,1300
+Medanta the Medicity,4.1,Healthcare,Gurgaon / Gurugram +36 other locations,4600,92,58,1300
+Vardhman Fabrics,4,Fashion & Textile,Baddi +51 other locations,5100,60,26,1300
+Security and Intelligence Services (India),4.2,Law Enforcement & Security,New Delhi +167 other locations,4100,55,295,1300
+AkzoNobel,4.1,Chemicals,Pune +137 other locations,4000,62,9,1300
